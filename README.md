@@ -3,4 +3,4 @@ Whoever is familiar with the context of online auctions might have witnessed, so
 *"the illegal practice of sellers who, during the auctions of their own products, place bids on their goods in
 order to drive up the price.”* <br>
 In this project, we will take a closer look to the practice of shill bidding in a statistical framework. We will consider a list of records about auctions that took place in one of the biggest e-commerce company
-worldwide and we wiil do a complete statistical analysis on it. 
+worldwide and we will carry out a complete statistical analysis on this data set. 
